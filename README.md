@@ -14,7 +14,11 @@ Bu proje, **Random Forest** algoritmasını kullanarak araçların yakıt tüket
 - **Kullanıcı Dostu Yapı:** Kod, kolay anlaşılabilir ve tekrarlanabilir bir yapıda tasarlanmıştır.
 - **Modelin eğitimi sırasında** gereksiz sütunlar elenmiş, kategorik değişkenler **OneHotEncoder** ile dönüştürülmüş, sayısal değişkenler ise **StandardScaler** ile ölçeklendirilmiştir.
 
+# Model Grafiği
+ 
 ![image](https://github.com/user-attachments/assets/965a62a1-935a-4d59-b503-a58aeebb0cca)
+
+# Sonuçlar
 
 ![image](https://github.com/user-attachments/assets/16360e6c-c4c1-4d90-8126-145d5a957552)
 
